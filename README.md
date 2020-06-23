@@ -1,6 +1,6 @@
 # Sistema de Informação Michigan - SIM
 
-Como fabricante de cartões em PVC, a Michigan ajuda seus clientes a personalizarem a experiência dos usuários de seus clientes. O SIM oferece acesso à todas informações relevantes para os clientes Michigan.
+Como fabricante de cartões em PVC, a Michigan ajuda seus clientes a personalizarem a experiência de seus usuários. O SIM oferece acesso à todas informações relevantes para os clientes Michigan.
 
 ## Getting Started
 
